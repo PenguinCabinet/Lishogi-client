@@ -4,5 +4,5 @@
 # ダウンロード
 
 # その他
-* webview.dll,は[webview](https://github.com/webview/webview)
+* webview.dll,WebView2Loader.dllは[webview](https://github.com/webview/webview)が著作権を持っています。MITライセンスです
 
