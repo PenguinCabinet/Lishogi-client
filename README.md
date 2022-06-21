@@ -1,6 +1,6 @@
 # Lishogi-Client
-非公式のLishogiクライアントです
-
+非公式の[Lishogi](https://lishogi.org/)クライアントです   
+WebViewを使用しています
 # ダウンロード
 
 # その他
